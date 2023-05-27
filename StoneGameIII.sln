@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneGameIII", "StoneGameIII.csproj", "{B9D5A52F-DEC7-4F5F-B7C8-9987BE9ADD76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9D5A52F-DEC7-4F5F-B7C8-9987BE9ADD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D5A52F-DEC7-4F5F-B7C8-9987BE9ADD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D5A52F-DEC7-4F5F-B7C8-9987BE9ADD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D5A52F-DEC7-4F5F-B7C8-9987BE9ADD76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4619D69-07C7-4AD6-B68A-954FE9CB4BC7}
+	EndGlobalSection
+EndGlobal
